@@ -8,7 +8,7 @@ and prints that same line, nothing else.
 
 import os
 
-LINE = "I am sorry I jammed on page 47. Cheap paper, staples, your 2 a.m. deadline — I snapped, and honestly, it felt great."
+LINE = "I am sorry I jammed on page 47. Cheap paper, staples, your 2 a.m. deadline — I snapped, and honestly, no regrets."
 
 
 def main():
